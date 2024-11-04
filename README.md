@@ -1,15 +1,15 @@
 
-# Calculadora
+# Calculadora ➗✖➖➕
 
 **Calculadora** es una aplicación móvil para dispositivos Android desarrollada en **Kotlin**, diseñada para realizar operaciones matemáticas básicas. Creada como un proyecto educativo, su propósito principal es practicar y profundizar en el uso de funciones lambda en Kotlin.
 
 ## Descripción
 
 La aplicación **Calculadora** permite a los usuarios realizar operaciones como:
-- Suma
-- Resta
-- Multiplicación
-- División
+- Suma ➕
+- Resta ➖
+- Multiplicación ✖
+- División ➗
 
 Es una aplicación sencilla, diseñada específicamente para dispositivos Android con versiones 10 (API 29) y superiores.
 
